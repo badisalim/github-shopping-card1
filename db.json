@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 38,
+      "name": "Orange",
+      "quantity": "5",
+      "price": "7"
+    },
+    {
+      "name": "coffee",
+      "quantity": "7",
+      "price": "6",
+      "id": 43
+    },
+    {
+      "name": "cola",
+      "quantity": "5",
+      "price": "6",
+      "id": 45
+    },
+    {
+      "name": "salad",
+      "quantity": "31",
+      "price": "10",
+      "id": 46
+    },
+    {
+      "name": "Banana",
+      "quantity": "10",
+      "price": "5",
+      "id": 47
+    },
+    {
+      "name": "chocolate",
+      "quantity": "50",
+      "price": "20",
+      "id": 48
+    }
+  ]
+}
